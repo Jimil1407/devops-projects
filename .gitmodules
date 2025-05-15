@@ -1,0 +1,3 @@
+[submodule "Server-Performance-Stats"]
+	path = Server-Performance-Stats
+	url = https://github.com/Jimil1407/Server-Performance-Stats.git
