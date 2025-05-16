@@ -1,3 +1,6 @@
 [submodule "Server-Performance-Stats"]
 	path = Server-Performance-Stats
 	url = https://github.com/Jimil1407/Server-Performance-Stats.git
+[submodule "Log-archive-tool"]
+	path = Log-archive-tool
+	url = git@github.com:Jimil1407/Log-archive-tool.git
