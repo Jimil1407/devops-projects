@@ -7,3 +7,6 @@
 [submodule "github-workflow-pipeline"]
 	path = github-workflow-pipeline
 	url = ../github-workflow-pipeline
+[submodule "aws-gh-actions-pipeline"]
+	path = aws-gh-actions-pipeline
+	url = https://github.com/Jimil1407/aws-gh-actions-pipeline.git
