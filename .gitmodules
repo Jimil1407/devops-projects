@@ -4,3 +4,6 @@
 [submodule "Log-archive-tool"]
 	path = Log-archive-tool
 	url = git@github.com:Jimil1407/Log-archive-tool.git
+[submodule "github-workflow-pipeline"]
+	path = github-workflow-pipeline
+	url = ../github-workflow-pipeline
