@@ -10,3 +10,6 @@
 [submodule "aws-gh-actions-pipeline"]
 	path = aws-gh-actions-pipeline
 	url = https://github.com/Jimil1407/aws-gh-actions-pipeline.git
+[submodule "nginx-log-tool"]
+	path = nginx-log-tool
+	url = https://github.com/Jimil1407/nginx-log-tool.git
